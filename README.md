@@ -33,7 +33,6 @@ This project is a responsive and animated hero section inspired by the Lovable d
 
 ## Setup Instructions
 
-1. Clone the repository:
    ```bash
    git clone https://github.com/Heckerdevl/dmi-hero-section.git
    cd dmi-hero-section
